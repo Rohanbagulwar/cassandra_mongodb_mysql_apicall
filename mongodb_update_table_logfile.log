@@ -1,0 +1,72 @@
+01-06-2021 12:29:03,info,mongo_db connection succesfully
+01-06-2021 12:29:03,info,data fetched succesfully from the postman api
+01-06-2021 12:29:03,info,database made succesfully of abcd
+01-06-2021 12:29:03,info,documentry  made succesfully of sudhanshu
+01-06-2021 12:29:03,info,connection  close succesfully in catch block
+01-06-2021 12:29:03,Exception,exception occurs due to unhashable type: 'dict' 
+01-06-2021 12:31:18,info,mongo_db connection succesfully
+01-06-2021 12:31:18,info,data fetched succesfully from the postman api
+01-06-2021 12:31:18,info,database made succesfully of abcd
+01-06-2021 12:31:18,info,documentry  made succesfully of sudhanshu
+01-06-2021 12:31:18,info,connection  close succesfully in catch block
+01-06-2021 12:31:18,Exception,exception occurs due to unexpected EOF while parsing (<string>, line 1) 
+01-06-2021 12:32:08,info,mongo_db connection succesfully
+01-06-2021 12:32:08,info,data fetched succesfully from the postman api
+01-06-2021 12:32:08,info,database made succesfully of abcd
+01-06-2021 12:32:08,info,documentry  made succesfully of sudhanshu
+01-06-2021 12:32:08,info,connection  close succesfully in catch block
+01-06-2021 12:32:08,Exception,exception occurs due to unexpected EOF while parsing (<string>, line 1) 
+01-06-2021 12:37:42,info,mongo_db connection succesfully
+01-06-2021 12:37:42,info,data fetched succesfully from the postman api
+01-06-2021 12:37:42,info,database made succesfully of abcd
+01-06-2021 12:37:42,info,documentry  made succesfully of sudhanshu
+01-06-2021 12:37:42,info,connection  close succesfully in catch block
+01-06-2021 12:37:42,Exception,exception occurs due to unhashable type: 'dict' 
+01-06-2021 13:09:19,info,mongo_db connection succesfully
+01-06-2021 13:09:19,info,data fetched succesfully from the postman api
+01-06-2021 13:09:19,info,database made succesfully of abcd
+01-06-2021 13:09:19,info,documentry  made succesfully of sudhanshu
+01-06-2021 13:09:19,info,connection  close succesfully in catch block
+01-06-2021 13:09:19,Exception,exception occurs due to unexpected EOF while parsing (<string>, line 1) 
+01-06-2021 13:11:53,info,mongo_db connection succesfully
+01-06-2021 13:11:53,info,data fetched succesfully from the postman api
+01-06-2021 13:11:53,info,database made succesfully of abcd
+01-06-2021 13:11:53,info,documentry  made succesfully of sudhanshu
+01-06-2021 13:11:53,info,connection  close succesfully in catch block
+01-06-2021 13:11:53,Exception,exception occurs due to unexpected EOF while parsing (<string>, line 1) 
+01-06-2021 13:14:39,info,mongo_db connection succesfully
+01-06-2021 13:14:39,info,data fetched succesfully from the postman api
+01-06-2021 13:14:39,info,database made succesfully of abcd
+01-06-2021 13:14:39,info,documentry  made succesfully of sudhanshu
+01-06-2021 13:14:39,info,connection  close succesfully in catch block
+01-06-2021 13:14:39,Exception,exception occurs due to unexpected EOF while parsing (<string>, line 1) 
+01-06-2021 13:16:46,info,mongo_db connection succesfully
+01-06-2021 13:16:46,info,data fetched succesfully from the postman api
+01-06-2021 13:16:46,info,database made succesfully of abcd
+01-06-2021 13:16:46,info,documentry  made succesfully of sudhanshu
+01-06-2021 13:16:46,info,connection  close succesfully in catch block
+01-06-2021 13:16:46,Exception,exception occurs due to unexpected EOF while parsing (<string>, line 1) 
+01-06-2021 13:18:17,info,mongo_db connection succesfully
+01-06-2021 13:18:17,info,data fetched succesfully from the postman api
+01-06-2021 13:18:17,info,database made succesfully of abcd
+01-06-2021 13:18:17,info,documentry  made succesfully of sudhanshu
+01-06-2021 13:18:17,info,connection  close succesfully in catch block
+01-06-2021 13:18:17,Exception,exception occurs due to unexpected EOF while parsing (<string>, line 1) 
+01-06-2021 13:18:49,info,mongo_db connection succesfully
+01-06-2021 13:18:49,info,data fetched succesfully from the postman api
+01-06-2021 13:18:49,info,database made succesfully of abcd
+01-06-2021 13:18:49,info,documentry  made succesfully of sudhanshu
+01-06-2021 13:18:49,info,connection  close succesfully in catch block
+01-06-2021 13:18:49,Exception,exception occurs due to filter must be an instance of dict, bson.son.SON, or any other type that inherits from collections.Mapping 
+01-06-2021 13:19:31,info,mongo_db connection succesfully
+01-06-2021 13:19:31,info,data fetched succesfully from the postman api
+01-06-2021 13:19:31,info,database made succesfully of abcd
+01-06-2021 13:19:31,info,documentry  made succesfully of sudhanshu
+01-06-2021 13:19:31,info,connection  close succesfully in catch block
+01-06-2021 13:19:31,Exception,exception occurs due to filter must be an instance of dict, bson.son.SON, or any other type that inherits from collections.Mapping 
+01-06-2021 13:20:43,info,mongo_db connection succesfully
+01-06-2021 13:20:43,info,data fetched succesfully from the postman api
+01-06-2021 13:20:43,info,database made succesfully of abcd
+01-06-2021 13:20:43,info,documentry  made succesfully of sudhanshu
+01-06-2021 13:20:43,info,data updated succesfully insudhanshu is ({'nm': 'rohan'}, {'$set': {'nm': 'avi'}}) in form of json
+01-06-2021 13:20:43,info,connection  close succesfully in try block

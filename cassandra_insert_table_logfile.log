@@ -1,0 +1,66 @@
+02-06-2021 12:00:32,Exception,Exception happens in the catch block is 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+02-06-2021 12:00:57,Exception,Exception happens in the catch block is 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+02-06-2021 12:02:01,Exception,Exception happens in the catch block is 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+02-06-2021 12:03:23,Exception,Exception happens in the catch block is 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+02-06-2021 12:09:52,Exception,Exception happens in the catch block is 'id'
+02-06-2021 12:10:31,Exception,Exception happens in the catch block is 'id'
+02-06-2021 12:11:37,Exception,Exception happens in the catch block is 'id'
+02-06-2021 12:13:53,Exception,Exception happens in the catch block is 'id'
+02-06-2021 12:20:33,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:20:43,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:20:43,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:38 no viable alternative at input 'values' (insert into trial.student_information [values]...)">
+02-06-2021 12:21:42,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:21:55,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:21:55,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:38 no viable alternative at input 'values' (insert into trial.student_information [values]...)">
+02-06-2021 12:24:34,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:24:46,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:24:47,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:77 no viable alternative at input ',' (...,name,stud_surname) values(1,["roha]n",...)">
+02-06-2021 12:28:33,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:28:45,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:28:45,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:77 no viable alternative at input ',' (...,name,stud_surname) values(1,["roha]n",...)">
+02-06-2021 12:29:11,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:29:22,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:29:23,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:77 no viable alternative at input ',' (...,name,stud_surname) values(1,["roha]n",...)">
+02-06-2021 12:29:54,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:30:06,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:30:07,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:75 no viable alternative at input ',' (...,name,stud_surname) values(1,["ro]h",...)">
+02-06-2021 12:35:55,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:36:05,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:36:06,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:75 no viable alternative at input ',' (...,name,stud_surname) values(1,["ro]h",...)">
+02-06-2021 12:40:09,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:40:19,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:40:20,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:75 no viable alternative at input ',' (...,name,stud_surname) values(1,["ro]h",...)">
+02-06-2021 12:40:48,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:41:00,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:41:01,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:68 no viable alternative at input ',' (...,name,age) values(1,["ro]h",...)">
+02-06-2021 12:42:34,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:42:47,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:42:47,info,cassandra ('1', 'roh', 20) inserted succesfully
+02-06-2021 12:42:47,info,cassandra insert table query executed succesfully student_information created in keyspace trial
+02-06-2021 12:42:47,info,cassandra connection closed sucesfully in try block for trial.student_information
+02-06-2021 12:45:29,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:45:40,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:45:41,info,cassandra ('100', 'roh', 20) inserted succesfully
+02-06-2021 12:45:41,info,cassandra insert table query executed succesfully student_information created in keyspace trial
+02-06-2021 12:45:41,info,cassandra connection closed sucesfully in try block for trial.student_information
+02-06-2021 12:47:27,info,cassandra data fetched succesfully from postman api
+02-06-2021 12:47:39,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:47:40,info,cassandra ('100', 'rohan', 'bagulwar') inserted succesfully
+02-06-2021 12:47:40,info,cassandra insert table query executed succesfully student_information created in keyspace trial
+02-06-2021 12:47:40,info,cassandra connection closed sucesfully in try block for trial.student_information
+02-06-2021 15:23:09,Exception,Exception happens in the catch block is 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+02-06-2021 15:24:51,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:25:01,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 15:25:02,info,cassandra ('2', 'chetan', 'uppalwar') inserted succesfully
+02-06-2021 15:25:02,info,cassandra insert table query executed succesfully student_information created in keyspace trial
+02-06-2021 15:25:02,info,cassandra connection closed sucesfully in try block for trial.student_information
+02-06-2021 15:25:28,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:25:38,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 15:25:39,info,cassandra ('3', 'niraj', 'joshi') inserted succesfully
+02-06-2021 15:25:39,info,cassandra insert table query executed succesfully student_information created in keyspace trial
+02-06-2021 15:25:39,info,cassandra connection closed sucesfully in try block for trial.student_information
+02-06-2021 15:25:57,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:26:08,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 15:26:08,info,cassandra ('4', 'niraj', 'paddalwar') inserted succesfully
+02-06-2021 15:26:08,info,cassandra insert table query executed succesfully student_information created in keyspace trial
+02-06-2021 15:26:08,info,cassandra connection closed sucesfully in try block for trial.student_information

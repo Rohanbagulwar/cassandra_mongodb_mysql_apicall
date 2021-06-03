@@ -1,0 +1,16 @@
+02-06-2021 15:40:25,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:40:38,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:42:34,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:42:44,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:44:53,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:45:03,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:47:56,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:48:06,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:50:06,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:50:18,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:50:18,Exception,Exception happens in the catch block is Error from server: code=2200 [Invalid query] message="Cannot infer type for term 2 in selection clause (try using a cast to force a type)"
+02-06-2021 15:52:23,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:52:34,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:52:34,info,cassandra student_information succesfully fetched data from trial
+02-06-2021 15:52:34,info,cassandra select  table query executed succesfully student_information created in keyspace trial
+02-06-2021 15:52:34,info,cassandra connection closed sucesfully in try block for trial.student_information

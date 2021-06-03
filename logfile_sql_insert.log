@@ -1,0 +1,100 @@
+31-05-2021 10:46:35,info,sql insert table is firing
+31-05-2021 10:46:35,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 10:46:35,Exception,exception occurs in databse is 'user'
+31-05-2021 10:47:31,info,sql insert table is firing
+31-05-2021 10:47:32,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 10:47:32,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 10:47:32,Exception,exception occurs in databse is 1054 (42S22): Unknown column 'Rohan' in 'field list'
+31-05-2021 10:47:32,Exception,connection close for the trial in studd_info
+31-05-2021 10:49:43,info,sql insert table is firing
+31-05-2021 10:49:44,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 10:49:44,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 10:49:44,Exception,exception occurs in databse is 1054 (42S22): Unknown column 'Rohan' in 'field list'
+31-05-2021 10:49:44,Exception,connection close for the trial in studd_info
+31-05-2021 10:56:14,info,sql insert table is firing
+31-05-2021 10:56:15,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 10:56:15,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 10:56:15,Exception,exception occurs in databse is 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Bagulwar')' at line 1
+31-05-2021 10:56:15,Exception,connection close for the trial in studd_info
+31-05-2021 11:02:51,info,sql insert table is firing
+31-05-2021 11:02:51,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:02:51,Exception,exception occurs in databse is sql_insert_into_table() takes 0 positional arguments but 1 was given
+31-05-2021 11:02:51,Exception,connection close for the trial in studd_info
+31-05-2021 11:07:24,info,sql insert table is firing
+31-05-2021 11:07:24,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:07:24,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:07:24,Exception,exception occurs in databse is 1054 (42S22): Unknown column 'Rohan' in 'field list'
+31-05-2021 11:07:24,Exception,connection close for the trial in studd_info
+31-05-2021 11:10:33,info,sql insert table is firing
+31-05-2021 11:10:33,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:10:33,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:10:33,Exception,exception occurs in databse is 1054 (42S22): Unknown column 'Rohan' in 'field list'
+31-05-2021 11:10:33,Exception,connection close for the trial in studd_info
+31-05-2021 11:14:14,info,sql insert table is firing
+31-05-2021 11:14:15,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:14:15,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:14:15,Exception,exception occurs in databse is 1054 (42S22): Unknown column 'Rohan' in 'field list'
+31-05-2021 11:14:15,Exception,connection close for the trial in studd_info
+31-05-2021 11:15:15,info,sql insert table is firing
+31-05-2021 11:15:15,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:15:15,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:15:15,Exception,exception occurs in databse is 1054 (42S22): Unknown column 'Rohan' in 'field list'
+31-05-2021 11:15:15,Exception,connection close for the trial in studd_info
+31-05-2021 11:15:52,info,sql insert table is firing
+31-05-2021 11:15:52,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:15:52,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:15:52,Exception,exception occurs in databse is 1054 (42S22): Unknown column 'Rohan' in 'field list'
+31-05-2021 11:15:52,Exception,connection close for the trial in studd_info
+31-05-2021 11:18:25,info,sql insert table is firing
+31-05-2021 11:18:26,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:18:26,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:18:26,Exception,exception occurs in databse is 1054 (42S22): Unknown column 'Rohan' in 'field list'
+31-05-2021 11:18:26,Exception,connection close for the trial in studd_info
+31-05-2021 11:20:24,info,sql insert table is firing
+31-05-2021 11:20:24,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:20:24,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:20:24,info,create table query executed for trial of table studd_info 
+31-05-2021 11:20:24,info,commiting above qury for trial in studd_info
+31-05-2021 11:20:24,info,connection closed succesfully
+31-05-2021 11:22:19,info,sql insert table is firing
+31-05-2021 11:22:19,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:22:19,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:22:19,info,create table query executed for trial of table studd_info 
+31-05-2021 11:22:20,info,commiting above qury for trial in studd_info
+31-05-2021 11:22:20,info,connection closed succesfully
+31-05-2021 12:14:13,info,sql insert table is firing
+31-05-2021 12:14:13,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 12:14:13,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 12:14:14,info,create table query executed for trial of table studd_info 
+31-05-2021 12:14:14,info,commiting above qury for trial in studd_info
+31-05-2021 12:14:14,info,connection closed succesfully
+31-05-2021 12:14:32,info,sql insert table is firing
+31-05-2021 12:14:32,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 12:14:32,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 12:14:32,info,create table query executed for trial of table studd_info 
+31-05-2021 12:14:32,info,commiting above qury for trial in studd_info
+31-05-2021 12:14:32,info,connection closed succesfully
+31-05-2021 14:28:10,info,sql insert table is firing
+31-05-2021 14:28:10,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:28:10,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 14:28:10,info,create table query executed for trial of table studd_info 
+31-05-2021 14:28:10,info,commiting above qury for trial in studd_info
+31-05-2021 14:28:10,info,connection closed succesfully
+31-05-2021 14:28:28,info,sql insert table is firing
+31-05-2021 14:28:28,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:28:28,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 14:28:28,info,create table query executed for trial of table studd_info 
+31-05-2021 14:28:28,info,commiting above qury for trial in studd_info
+31-05-2021 14:28:29,info,connection closed succesfully
+31-05-2021 14:28:47,info,sql insert table is firing
+31-05-2021 14:28:47,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:28:47,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 14:28:47,info,create table query executed for trial of table studd_info 
+31-05-2021 14:28:47,info,commiting above qury for trial in studd_info
+31-05-2021 14:28:47,info,connection closed succesfully
+31-05-2021 14:55:11,info,sql insert table is firing
+31-05-2021 14:55:12,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:55:12,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 14:55:12,info,create table query executed for trial of table studd_info 
+31-05-2021 14:55:12,info,commiting above qury for trial in studd_info
+31-05-2021 14:55:12,info,connection closed succesfully

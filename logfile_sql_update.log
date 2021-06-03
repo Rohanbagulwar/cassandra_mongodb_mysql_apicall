@@ -1,0 +1,40 @@
+31-05-2021 11:41:45,info,sql update table is firing
+31-05-2021 11:41:45,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:41:45,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:41:45,Exception,exception occurs in databse is 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'into trial.studd_info set name="saurabh" where name="rohan"' at line 1
+31-05-2021 11:41:46,Exception,connection close for the trial in studd_info
+31-05-2021 11:42:40,info,sql update table is firing
+31-05-2021 11:42:41,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:42:41,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:42:41,Exception,exception occurs in databse is 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table trial.studd_info set name="saurabh" where name="rohan"' at line 1
+31-05-2021 11:42:41,Exception,connection close for the trial in studd_info
+31-05-2021 11:46:05,info,sql update table is firing
+31-05-2021 11:46:06,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:46:06,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:46:06,Exception,exception occurs in databse is 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table trial.studd_info set name="saurabh" where name="Rohan"' at line 1
+31-05-2021 11:46:06,Exception,connection close for the trial in studd_info
+31-05-2021 11:46:44,info,sql update table is firing
+31-05-2021 11:46:45,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:46:45,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:46:45,Exception,exception occurs in databse is 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table studd_info set name="saurabh" where name="Rohan"' at line 1
+31-05-2021 11:46:45,Exception,connection close for the trial in studd_info
+31-05-2021 11:53:31,info,sql update table is firing
+31-05-2021 11:53:31,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:53:31,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:53:31,info,update table query executed for trial of table studd_info 
+31-05-2021 11:53:31,info,commiting above qury for trial in studd_info
+31-05-2021 11:53:31,info,connection closed succesfully
+31-05-2021 11:56:04,info,sql update table is firing
+31-05-2021 11:56:05,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:56:05,Exception,exception occurs in databse is 'attrib'
+31-05-2021 11:56:05,Exception,connection close for the trial in studd_info
+31-05-2021 11:56:25,info,sql update table is firing
+31-05-2021 11:56:25,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:56:25,Exception,exception occurs in databse is 'attrib'
+31-05-2021 11:56:25,Exception,connection close for the trial in studd_info
+31-05-2021 11:59:22,info,sql update table is firing
+31-05-2021 11:59:22,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 11:59:22,info,data fetched succesfully for trial in the table studd_info
+31-05-2021 11:59:22,info,update table query executed for trial of table studd_info 
+31-05-2021 11:59:22,info,commiting above qury for trial in studd_info
+31-05-2021 11:59:22,info,connection closed succesfully

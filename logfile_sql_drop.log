@@ -1,0 +1,11 @@
+31-05-2021 12:10:53,info,sql drop table is firing
+31-05-2021 12:10:53,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 12:10:53,info,studd_info dropped succesfully from trial
+31-05-2021 12:10:54,info,drop table query executed for trial.studd_info 
+31-05-2021 12:10:54,info,commiting above qury for trial in studd_info
+31-05-2021 12:10:54,info,connection closed succesfully
+31-05-2021 12:13:22,info,sql drop table is firing
+31-05-2021 12:13:23,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 12:13:23,info,studd_info dropped succesfully from trial
+31-05-2021 12:13:23,Exception,exception occurs in databse is 1051 (42S02): Unknown table 'trial.studd_info'
+31-05-2021 12:13:23,Exception,connection close for the trial in studd_info

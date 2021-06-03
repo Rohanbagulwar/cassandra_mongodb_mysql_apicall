@@ -1,0 +1,24 @@
+01-06-2021 15:26:46,info,mongo_db connection succesfully
+01-06-2021 15:26:46,info,data fetched succesfully from the postman api
+01-06-2021 15:26:46,info,database table made succesfully of abcd
+01-06-2021 15:26:46,info,documentry  made succesfully of sudhanshu
+01-06-2021 15:26:46,info,data written succesfully in file form of json
+01-06-2021 15:26:46,info,connection  close succesfully in try block
+01-06-2021 15:28:07,info,mongo_db connection succesfully
+01-06-2021 15:28:07,info,data fetched succesfully from the postman api
+01-06-2021 15:28:07,info,database table made succesfully of abcd
+01-06-2021 15:28:07,info,documentry  made succesfully of sudhanshu
+01-06-2021 15:28:07,info,data written succesfully in file form of json
+01-06-2021 15:28:07,info,connection  close succesfully in try block
+01-06-2021 15:29:12,info,mongo_db connection succesfully
+01-06-2021 15:29:12,info,data fetched succesfully from the postman api
+01-06-2021 15:29:12,info,database table made succesfully of abcd
+01-06-2021 15:29:12,info,documentry  made succesfully of sudhanshu
+01-06-2021 15:29:12,info,data written succesfully in file form of json
+01-06-2021 15:29:12,info,connection  close succesfully in try block
+01-06-2021 15:31:07,info,mongo_db connection succesfully
+01-06-2021 15:31:07,info,data fetched succesfully from the postman api
+01-06-2021 15:31:07,info,database table made succesfully of abcd
+01-06-2021 15:31:07,info,documentry  made succesfully of sudhanshu
+01-06-2021 15:31:08,info,data written succesfully in file form of json
+01-06-2021 15:31:08,info,connection  close succesfully in try block

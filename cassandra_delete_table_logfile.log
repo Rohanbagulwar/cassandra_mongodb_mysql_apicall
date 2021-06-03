@@ -1,0 +1,18 @@
+02-06-2021 14:54:15,Exception,Exception happens in the catch block is 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+02-06-2021 14:59:43,info,cassandra data fetched succesfully from postman api
+02-06-2021 14:59:56,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 14:59:56,Exception,Exception happens in the catch block is Error from server: code=2200 [Invalid query] message="Some partition key parts are missing: id"
+02-06-2021 15:02:13,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:02:23,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:02:23,Exception,Exception happens in the catch block is Error from server: code=2200 [Invalid query] message="Invalid STRING constant (rohan) for "id" of type int"
+02-06-2021 15:07:11,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:07:22,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:07:22,Exception,Exception happens in the catch block is Error from server: code=2200 [Invalid query] message="Some partition key parts are missing: id"
+02-06-2021 15:09:47,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:09:59,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:09:59,Exception,Exception happens in the catch block is <Error from server: code=2000 [Syntax error in CQL query] message="line 1:59 mismatched character '<EOF>' expecting '''">
+02-06-2021 15:11:21,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:11:31,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:11:31,info,cassandra student_information succesfully deleted row contains 1
+02-06-2021 15:11:32,info,cassandra delete table query executed succesfully student_information created in keyspace trial
+02-06-2021 15:11:32,info,cassandra connection closed sucesfully in try block for trial.student_information

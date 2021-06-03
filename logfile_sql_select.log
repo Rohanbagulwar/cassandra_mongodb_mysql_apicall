@@ -1,0 +1,58 @@
+31-05-2021 14:26:22,info,sql select from table is firing
+31-05-2021 14:26:22,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:26:22,info,select_query_res.txt succesfully created 
+31-05-2021 14:26:22,Exception,exception occurs in databse is can only concatenate list (not "str") to list
+31-05-2021 14:26:22,Exception,connection close for the trial in studd_info
+31-05-2021 14:27:33,info,sql select from table is firing
+31-05-2021 14:27:33,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:27:33,info,select_query_res.txt succesfully created 
+31-05-2021 14:27:33,info,select_query_res.txt succesfully closed 
+31-05-2021 14:27:33,info,select query data fetchedted succesfully for trial in the table studd_info
+31-05-2021 14:27:33,info,select  table query executed for trial of table studd_info 
+31-05-2021 14:27:33,info,commiting above qury for trial in studd_info
+31-05-2021 14:27:33,info,connection closed succesfully in try block
+31-05-2021 14:28:57,info,sql select from table is firing
+31-05-2021 14:28:57,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:28:57,info,select_query_res.txt succesfully created 
+31-05-2021 14:28:57,info,select_query_res.txt succesfully closed 
+31-05-2021 14:28:57,info,select query data fetchedted succesfully for trial in the table studd_info
+31-05-2021 14:28:57,info,select  table query executed for trial of table studd_info 
+31-05-2021 14:28:57,info,commiting above qury for trial in studd_info
+31-05-2021 14:28:57,info,connection closed succesfully in try block
+31-05-2021 14:34:31,info,sql select from table is firing
+31-05-2021 14:34:32,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:34:32,info,select_query_res.txt succesfully created 
+31-05-2021 14:34:32,Exception,exception occurs in databse is write() takes no keyword arguments
+31-05-2021 14:34:32,Exception,connection close for the trial in studd_info
+31-05-2021 14:52:55,info,sql select from table is firing
+31-05-2021 14:52:55,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:52:55,info,select_query_res.csv succesfully created 
+31-05-2021 14:52:55,info,select_query_res.txt succesfully closed 
+31-05-2021 14:52:55,info,select query data fetchedted succesfully for trial in the table studd_info
+31-05-2021 14:52:55,info,select  table query executed for trial of table studd_info 
+31-05-2021 14:52:55,info,commiting above qury for trial in studd_info
+31-05-2021 14:52:55,info,connection closed succesfully in try block
+31-05-2021 14:55:19,info,sql select from table is firing
+31-05-2021 14:55:19,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:55:20,info,select_query_res.csv succesfully created 
+31-05-2021 14:55:20,info,select_query_res.txt succesfully closed 
+31-05-2021 14:55:20,info,select query data fetchedted succesfully for trial in the table studd_info
+31-05-2021 14:55:20,info,select  table query executed for trial of table studd_info 
+31-05-2021 14:55:20,info,commiting above qury for trial in studd_info
+31-05-2021 14:55:20,info,connection closed succesfully in try block
+31-05-2021 14:57:18,info,sql select from table is firing
+31-05-2021 14:57:18,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:57:18,info,select_query_res.csv succesfully created 
+31-05-2021 14:57:18,info,select_query_res.txt succesfully closed 
+31-05-2021 14:57:18,info,select query data fetchedted succesfully for trial in the table studd_info
+31-05-2021 14:57:18,info,select  table query executed for trial of table studd_info 
+31-05-2021 14:57:18,info,commiting above qury for trial in studd_info
+31-05-2021 14:57:18,info,connection closed succesfully in try block
+31-05-2021 14:59:59,info,sql select from table is firing
+31-05-2021 14:59:59,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:59:59,info,select_query_res.csv succesfully created 
+31-05-2021 14:59:59,info,select_query_res.txt succesfully closed 
+31-05-2021 14:59:59,info,select query data fetchedted succesfully for trial in the table studd_info
+31-05-2021 14:59:59,info,select  table query executed for trial of table studd_info 
+31-05-2021 14:59:59,info,commiting above qury for trial in studd_info
+31-05-2021 14:59:59,info,connection closed succesfully in try block

@@ -1,0 +1,6 @@
+02-06-2021 12:24:09,info,cassandra data fetched succesfully from api
+02-06-2021 12:24:19,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:24:20,Exception,Exception happens in the catch block is Table 'trial.student_information' already exists
+02-06-2021 12:28:06,info,cassandra data fetched succesfully from api
+02-06-2021 12:28:16,info,cassandra connection succesful with cloud cluster to student_information
+02-06-2021 12:28:16,Exception,Exception happens in the catch block is Table 'trial.student_information' already exists

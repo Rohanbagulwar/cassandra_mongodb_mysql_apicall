@@ -1,0 +1,5 @@
+02-06-2021 15:28:32,info,cassandra data fetched succesfully from postman api
+02-06-2021 15:28:44,info,cassandra connection sucessful with cloud cluster to student_information
+02-06-2021 15:28:44,info,cassandra student_information succesfully updated row contains with rameshwar
+02-06-2021 15:28:44,info,cassandra delete table query executed succesfully student_information created in keyspace trial
+02-06-2021 15:28:44,info,cassandra connection closed sucesfully in try block for trial.student_information

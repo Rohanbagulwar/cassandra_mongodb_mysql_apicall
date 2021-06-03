@@ -1,0 +1,17 @@
+31-05-2021 10:04:26,info,sql create table api is running
+31-05-2021 10:04:26,info,data fetched succesfully by api for table studd_info and dtabase is trial
+31-05-2021 10:04:27,info,sql connection is succesful for studd_info
+31-05-2021 10:04:27,Exception,exception occurs in databse is 1050 (42S01): Table 'studd_info' already exists
+31-05-2021 10:04:27,Exception,connection close for the trial in studd_info
+31-05-2021 12:14:00,info,sql create table api is running
+31-05-2021 12:14:00,info,data fetched succesfully by api for table studd_info and dtabase is trial
+31-05-2021 12:14:00,info,sql connection is succesful for studd_info
+31-05-2021 12:14:00,info,create table query executed for trial of studd_info 
+31-05-2021 12:14:00,info,name varchar(10),stud_surname varchar (10) created
+31-05-2021 12:14:00,info,commiting above qury for trial in studd_info
+31-05-2021 12:14:01,info,connection closed succesfully
+31-05-2021 14:52:33,info,sql create table api is running
+31-05-2021 14:52:33,info,data fetched succesfully by api for table studd_info and dtabase is trial
+31-05-2021 14:52:33,info,sql connection is succesful for studd_info
+31-05-2021 14:52:33,Exception,exception occurs in databse is 1050 (42S01): Table 'studd_info' already exists
+31-05-2021 14:52:33,Exception,connection close for the trial in studd_info

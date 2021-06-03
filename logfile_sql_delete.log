@@ -1,0 +1,6 @@
+31-05-2021 14:08:38,info,sql delete from table is firing
+31-05-2021 14:08:39,info,connection is succesful for studd_info in the table studd_info
+31-05-2021 14:08:39,info,Rohan data deleted succesfully for trial in the table studd_info
+31-05-2021 14:08:39,info,delete table query executed for trial of table studd_info 
+31-05-2021 14:08:39,info,commiting above qury for trial in studd_info
+31-05-2021 14:08:39,info,connection closed succesfully in try block
